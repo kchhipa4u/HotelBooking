@@ -1,4 +1,4 @@
-package com.fundamentals.oop.interfaceAndAbstractClass;
+package com.fundamentals.oop.interfaces;
 
 public interface I2 {
 

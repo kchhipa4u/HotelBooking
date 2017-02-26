@@ -1,4 +1,4 @@
-package com.fundamentals.oop.interfaceAndAbstractClass;
+package com.fundamentals.oop.interfaces;
 
 public class ClientI1I2 implements I1, I2 {
 
