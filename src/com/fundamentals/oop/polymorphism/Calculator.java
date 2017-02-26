@@ -9,12 +9,13 @@ package com.fundamentals.oop.polymorphism;
  * 4. only change the variable name in overloaded method will give compile time error
  * 5. overloading of methods does not depends on return type.
  * 6. Overloading can be done in same or sub class
+ * 7. final keyword is allowed in case of overloading.
  * 
  */
 
 public class Calculator {
 	
-	public int sum(int x, int y)
+	 public final int sum(int x, int y)
 	{
 		return x+y;
 	}
