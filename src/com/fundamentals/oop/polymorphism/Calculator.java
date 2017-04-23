@@ -10,6 +10,11 @@ package com.fundamentals.oop.polymorphism;
  * 5. overloading of methods does not depends on return type.
  * 6. Overloading can be done in same or sub class
  * 7. final keyword is allowed in case of overloading.
+ * 8. Access Modifier - Doesn't matter
+ * 9. Exception Thrown - Doesn't matter
+ * 10. private method can be overloaded in java
+ * 11. Main method can be overloaded in java
+ * 12. Both static and instance method can be overloaded in java
  * 
  */
 

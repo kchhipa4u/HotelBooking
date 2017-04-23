@@ -2,7 +2,7 @@ package com.fundamentals.oop.encapsulation;
 
 public class Employee {
 
-	private int salary = 5000;
+	public int salary = 5000;
 
 	public int getSalary() {
 		return salary;

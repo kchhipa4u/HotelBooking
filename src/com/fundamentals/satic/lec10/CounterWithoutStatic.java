@@ -13,7 +13,9 @@ public class CounterWithoutStatic {
 
 	public static void main(String args[]) {
 
-		new CounterWithoutStatic().showCount();
+		//new CounterWithoutStatic().showCount();
+		CounterWithoutStatic counterWithoutStatic1 = new CounterWithoutStatic();
+		counterWithoutStatic1.showCount();
 		new CounterWithoutStatic().showCount();
 		new CounterWithoutStatic().showCount();
 

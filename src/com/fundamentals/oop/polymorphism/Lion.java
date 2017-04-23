@@ -15,4 +15,20 @@ public class Lion extends Animal {
 	public Lion getObj(){
 		return new Lion();
 	}
+	
+	public int dispVal(int x)
+	{
+		return 1;
+	}
+	
+	public void privateDisp(){
+		System.out.println("Lion private method...");
+	}
+	
+	public void getMultiObj(){
+		for(int x=0; x<5; x++)
+		{
+			new Lion();
+		}
+	}
 }
